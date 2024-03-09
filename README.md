@@ -1,6 +1,6 @@
 # Aerial Refueling Simulation for UAVs
 
-![alt text](AerialRefueling/SimPhoto.png)
+![alt text](AerialRefueling/AnimationPhoto.jpg)
 
 ## Overview
 This repository includes a simulation package for UAV aerial refueling, featuring scripts for MAV animation, state and control plotting, dynamics, and autopilot systems. It supports simulation and real-time visualization of UAV behaviors during aerial refueling scenarios.

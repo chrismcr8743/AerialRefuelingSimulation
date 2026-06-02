@@ -1,4 +1,4 @@
-# Aerial Refueling Simulation for UAVs
+# Aerial Refueling Simulation
 
 ![alt text](AerialRefueling/AnimationPhoto.jpg)
 
